@@ -1,1 +1,1 @@
-# aimatrix-pretained-weights
+# aimatrix-pretrained-weights
