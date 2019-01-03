@@ -1,0 +1,2 @@
+ResNet-101_VOC0712_SSD_VOC07_321x321_iter_80000.caffemodel filter=lfs diff=lfs merge=lfs -text
+ResNet-101_VOC0712_SSD_VOC07_321x321_iter_80000.solverstate filter=lfs diff=lfs merge=lfs -text
