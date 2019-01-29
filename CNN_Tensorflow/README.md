@@ -7,3 +7,4 @@ tar -xzvf log_resnet50.tgz
 tar -xzvf log_resnet152.tgz  
 tar -xzvf log_densenet121.tgz  
  
+ * Special thanks for pudae. The densenet121 model weights are downloaded from https://github.com/pudae/tensorflow-densenet 
